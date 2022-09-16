@@ -1,0 +1,152 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    /* header part */
+    .col-l-1 {
+        width: 8.33%;
+        float: left;
+    }
+    .col-l-2 {
+        width: 16.66%;
+        float: left;
+    }
+    .col-l-3 {
+        width: 25%;
+        float: left;
+    }
+    .col-l-4 {
+        width: 33.33%;
+        float: left;
+    }
+    .col-l-5 {
+        width: 41.66%;
+        float: left;
+    }
+    .col-l-6 {
+        width: 50%;
+        float: left;
+    }
+    .col-l-7 {
+        width: 58.33%;
+        float: left;
+    }
+    .col-l-8 {
+        width: 66.66%;
+        float: left;
+    }
+    .col-l-9 {
+        width: 75%;
+        float: left;
+    }
+    .col-l-10 {
+        width: 83.33%;
+        float: left;
+    }
+    .col-l-11 {
+        width: 91.66%;
+        float: left;
+    }
+    .col-l-12 {
+        width: 100%;
+        float: left;
+    }
+    .nav-menu-part li{
+        display: inline-block;
+    }
+    .nav-logo-part{
+        text-align: center;
+        margin: 30px;
+    }
+    .nav-logo-part p{
+        font-size: 50px;
+        font-weight: 600;
+    }
+    nav{
+        margin: 0%;
+    }
+    .hero-logo-part{
+        margin: 35px 0px;
+    }
+    .hero-writing-part{
+        text-align: center;
+        margin-top: 30px;
+    }
+    .hero-part{
+        margin: 0%;
+    }
+    .hero-writing-part h2{
+        width: 100%;
+    }
+    .nav-btn-part{
+        text-align: center;
+    }
+    /* ======== shop part ======== */
+    .shop-writing-part h2{
+        width: 75%;
+    }
+    .underline{
+        width: 20%;
+    }
+    .shop-box-part{
+        margin-top: 60px;
+    }
+    /* info part */
+    .info-box-writing-part{
+        padding: 20px;
+    }
+    .info-box-writing-part h2{
+        width: 100%;
+        font-weight: 400;
+        font-size: 20px;
+        margin-bottom: 10px;
+        padding-top: 20px;
+    }
+    .info-box-writing-part p{
+        font-size: 10px;
+        width: 90%;
+        font-weight: 200;
+        margin-bottom: 40px;
+    }
+    .info-box-part{
+        padding: 129px 20px;
+    }
+    /* table part */
+    .table-writing-part h2{
+     margin: auto;
+     padding-top: 60px;
+    }
+    .table-writing-part p{
+        margin: auto;
+        padding: 20px 0px;
+        font-weight: 200;
+        font-size: 10px;
+        width: 100%;
+        white-space: 15px;
+    }
+    .table-writing-part a button{
+        margin: auto;
+    }
+    .table-writing-part{
+        margin-left: 150px;
+    }
+    .table-img-part{
+        width: 500px;
+    }
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) 
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
